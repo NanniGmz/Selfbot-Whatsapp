@@ -32,7 +32,7 @@ const {
 } = require('./Liberary/VHtearFunc');
 
 const PremiumKey = "Chat to buy https://wa.me/6281238552767"
-const Host = "https://api.vhtear.com"
+const Host = "c1d162b46e634f389efa1ac715f03d03"
 
 function os_func() {
 	this.execCommand = function (cmd) {
